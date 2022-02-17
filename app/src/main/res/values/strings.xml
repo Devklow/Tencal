@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tencal</string>
+    <string name="Titre">Simple calculateur de Teneur!</string>
+    <string name="CalcString">Calculer</string>
+    <string name="c1">Carburant 1:</string>
+    <string name="litres">Litres</string>
+    <string name="ten">Teneur</string>
+    <string name="c2">Carburant 2:</string>
+    <string name="ttStr">Teneur Totale :</string>
+    <string name="percent">%</string>
+    <string name="liters">L</string>
+</resources>
